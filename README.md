@@ -1,3 +1,3 @@
 ## Todo App
 
-This is a simple todo made using React.
+This is a simple Todo App made using React.
